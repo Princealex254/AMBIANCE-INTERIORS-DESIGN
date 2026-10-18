@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+Disallow: /_preview-server.ps1
+
+Sitemap: https://ambianceinteriorsdesign.site/sitemap.xml
